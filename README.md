@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to sing, play a instrument and have a good time gaming.
 
 ### Spotify Playing 🎧
-[<img src=https://i.scdn.co/image/ab67616d0000b2731ad116a92c38480289c98761 alt="Spotify Now Playing" width="200" />](https://open.spotify.com/user/lúmoraes)
+[<img src=https://i.scdn.co/image/ab67616d0000b2731ad116a92c38480289c98761 alt="Spotify Now Playing" width="200" />]()
 
 ### Connect with me:
 [<img align="left" alt="moraes-webdev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
