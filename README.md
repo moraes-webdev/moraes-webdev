@@ -8,11 +8,12 @@
 - 🥅 2021 Goals: Become a better person and father | Improve in areas like: Assertive communication; English; Web development;
 - ⚡ Fun fact: I love to sing, play a instrument and have a good time gaming.
 
-### Spotify Playing 🎧
-[<img src=https://i.scdn.co/image/ab67616d0000b2731ad116a92c38480289c98761 alt="Spotify Now Playing" width="200" />]()
+<!--- ### Spotify Playing 🎧
+[<img src=https://i.scdn.co/image/ab67616d0000b2731ad116a92c38480289c98761 alt="Spotify Now Playing" width="200" target="_blank" />]() --->
+<!--- The Spotify Playing mecanism is not working properly right know, gonna fix it later. --->
 
 ### Connect with me:
-[<img align="left" alt="moraes-webdev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="moraes-webdev | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][Linkedin]
 
 </details>
 
